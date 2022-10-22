@@ -1,0 +1,2 @@
+# simple
+to study git
